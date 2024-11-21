@@ -1,5 +1,3 @@
-// 2. Desarrollar un algoritmo que dado dos conjuntos de elementos tipo numérico (clave)
-// verifique las operaciones de Unión, Intersección, Diferencia y Pertenencia.
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
