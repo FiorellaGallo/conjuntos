@@ -74,7 +74,8 @@ void calcular_conjuntos(Conjunto cto_A,Conjunto cto_B){
 
 
 
-
+// complejidad algoritmica de 0(n) ya que va a 
+// depender de que tan grande sean los conjuntos
 
 
 
